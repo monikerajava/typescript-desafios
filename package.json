@@ -1,0 +1,22 @@
+{
+  "name": "typescript-desafios",
+  "version": "1.0.0",
+  "description": "Solução de desafios em Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/monikerajava/typescript-desafios.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/monikerajava/typescript-desafios/issues"
+  },
+  "homepage": "https://github.com/monikerajava/typescript-desafios#readme",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
